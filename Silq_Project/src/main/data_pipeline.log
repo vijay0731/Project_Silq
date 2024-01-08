@@ -1,0 +1,66 @@
+2024-01-07 13:31:18,684 - ERROR - Error loading users.csv: [Errno 2] No such file or directory: 'users.csv'
+2024-01-07 13:31:34,041 - ERROR - Error loading ~/data/users.csv: [Errno 2] No such file or directory: '/Users/uday/data/users.csv'
+2024-01-07 13:33:49,418 - ERROR - Error loading ~/data/Users.csv: [Errno 2] No such file or directory: '/Users/uday/data/Users.csv'
+2024-01-07 13:43:04,477 - ERROR - Error loading /Users/uday/Desktop/Project_Silq/Silq_Project/data/Users.scv: [Errno 2] No such file or directory: '/Users/uday/Desktop/Project_Silq/Silq_Project/data/Users.scv'
+2024-01-07 13:45:48,545 - INFO - Loaded data from /Users/uday/Desktop/Project_Silq/Silq_Project/data/Users.csv
+2024-01-07 13:47:28,175 - INFO - Loaded data from /Users/uday/Desktop/Project_Silq/Silq_Project/data/Users.csv
+2024-01-07 14:12:07,673 - INFO - Loaded data from /Users/uday/Desktop/Project_Silq/Silq_Project/data/Users.csv
+2024-01-07 14:12:07,674 - INFO - Loaded data from /Users/uday/Desktop/Project_Silq/Silq_Project/data/Products.csv
+2024-01-07 14:12:07,674 - INFO - Loaded data from /Users/uday/Desktop/Project_Silq/Silq_Project/data/Orders.csv
+2024-01-07 14:12:26,718 - INFO - Loaded data from /Users/uday/Desktop/Project_Silq/Silq_Project/data/Users.csv
+2024-01-07 14:12:26,718 - INFO - Loaded data from /Users/uday/Desktop/Project_Silq/Silq_Project/data/Products.csv
+2024-01-07 14:12:26,719 - INFO - Loaded data from /Users/uday/Desktop/Project_Silq/Silq_Project/data/Orders.csv
+2024-01-07 14:12:32,134 - INFO - Loaded data from /Users/uday/Desktop/Project_Silq/Silq_Project/data/Users.csv
+2024-01-07 14:12:32,134 - INFO - Loaded data from /Users/uday/Desktop/Project_Silq/Silq_Project/data/Products.csv
+2024-01-07 14:12:32,135 - INFO - Loaded data from /Users/uday/Desktop/Project_Silq/Silq_Project/data/Orders.csv
+2024-01-07 14:27:01,896 - INFO - Loaded data from /Users/uday/Desktop/Project_Silq/Silq_Project/data/Users.csv
+2024-01-07 14:27:01,897 - INFO - Loaded data from /Users/uday/Desktop/Project_Silq/Silq_Project/data/Products.csv
+2024-01-07 14:27:01,897 - INFO - Loaded data from /Users/uday/Desktop/Project_Silq/Silq_Project/data/Orders.csv
+2024-01-07 14:27:01,901 - INFO - Data cleaning completed successfully :)
+2024-01-07 14:27:01,902 - INFO - Data cleaning completed successfully :)
+2024-01-07 14:27:01,903 - INFO - Data cleaning completed successfully :)
+2024-01-07 14:27:01,912 - INFO - Users table created and data loaded.
+2024-01-07 14:27:01,913 - INFO - Orders table created and data loaded.
+2024-01-07 14:27:01,914 - INFO - Products table created and data loaded.
+2024-01-07 14:27:01,914 - INFO - Database created and tables loaded successfully :)
+2024-01-07 14:29:13,818 - INFO - Loaded data from /Users/uday/Desktop/Project_Silq/Silq_Project/data/Users.csv
+2024-01-07 14:29:13,818 - INFO - Loaded data from /Users/uday/Desktop/Project_Silq/Silq_Project/data/Products.csv
+2024-01-07 14:29:13,819 - INFO - Loaded data from /Users/uday/Desktop/Project_Silq/Silq_Project/data/Orders.csv
+2024-01-07 14:29:13,823 - INFO - Data cleaning completed successfully :)
+2024-01-07 14:29:13,824 - INFO - Data cleaning completed successfully :)
+2024-01-07 14:29:13,825 - INFO - Data cleaning completed successfully :)
+2024-01-07 14:29:13,828 - INFO - Users table created and data loaded.
+2024-01-07 14:29:13,829 - INFO - Orders table created and data loaded.
+2024-01-07 14:29:13,831 - INFO - Products table created and data loaded.
+2024-01-07 14:29:13,831 - INFO - Database created and tables loaded successfully :)
+2024-01-07 14:43:46,956 - INFO - Loaded data from /Users/uday/Desktop/Project_Silq/Silq_Project/data/Users.csv
+2024-01-07 14:43:46,956 - INFO - Loaded data from /Users/uday/Desktop/Project_Silq/Silq_Project/data/Products.csv
+2024-01-07 14:43:46,957 - INFO - Loaded data from /Users/uday/Desktop/Project_Silq/Silq_Project/data/Orders.csv
+2024-01-07 14:43:46,960 - INFO - Data cleaning completed successfully :)
+2024-01-07 14:43:46,961 - INFO - Data cleaning completed successfully :)
+2024-01-07 14:43:46,962 - INFO - Data cleaning completed successfully :)
+2024-01-07 14:43:46,966 - INFO - Users table created and data loaded.
+2024-01-07 14:43:46,967 - INFO - Orders table created and data loaded.
+2024-01-07 14:43:46,969 - INFO - Products table created and data loaded.
+2024-01-07 14:43:46,969 - INFO - Database created and tables loaded successfully :)
+2024-01-07 14:43:46,969 - ERROR - Error creating and loading database: near "select": syntax error
+2024-01-07 14:45:04,164 - INFO - Loaded data from /Users/uday/Desktop/Project_Silq/Silq_Project/data/Users.csv
+2024-01-07 14:45:04,165 - INFO - Loaded data from /Users/uday/Desktop/Project_Silq/Silq_Project/data/Products.csv
+2024-01-07 14:45:04,165 - INFO - Loaded data from /Users/uday/Desktop/Project_Silq/Silq_Project/data/Orders.csv
+2024-01-07 14:45:04,169 - INFO - Data cleaning completed successfully :)
+2024-01-07 14:45:04,170 - INFO - Data cleaning completed successfully :)
+2024-01-07 14:45:04,171 - INFO - Data cleaning completed successfully :)
+2024-01-07 14:45:04,174 - INFO - Users table created and data loaded.
+2024-01-07 14:45:04,176 - INFO - Orders table created and data loaded.
+2024-01-07 14:45:04,177 - INFO - Products table created and data loaded.
+2024-01-07 14:45:04,177 - INFO - Database created and tables loaded successfully :)
+2024-01-07 14:47:07,374 - INFO - Loaded data from /Users/uday/Desktop/Project_Silq/Silq_Project/data/Users.csv
+2024-01-07 14:47:07,375 - INFO - Loaded data from /Users/uday/Desktop/Project_Silq/Silq_Project/data/Products.csv
+2024-01-07 14:47:07,375 - INFO - Loaded data from /Users/uday/Desktop/Project_Silq/Silq_Project/data/Orders.csv
+2024-01-07 14:47:07,376 - INFO - Data cleaning completed successfully :)
+2024-01-07 14:47:07,377 - INFO - Data cleaning completed successfully :)
+2024-01-07 14:47:07,378 - INFO - Data cleaning completed successfully :)
+2024-01-07 14:47:07,383 - INFO - Users table created and data loaded.
+2024-01-07 14:47:07,384 - INFO - Orders table created and data loaded.
+2024-01-07 14:47:07,386 - INFO - Products table created and data loaded.
+2024-01-07 14:47:07,387 - INFO - Database created and tables loaded successfully :)
